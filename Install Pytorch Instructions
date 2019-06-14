@@ -1,1 +1,7 @@
+1) Go to (https://pytorch.org/get-started/locally/) 
 
+2) As I am not using Cuda for training for the process, you can use this following whl 
+    pip3 install https://download.pytorch.org/whl/cpu/torch-1.1.0-cp37-cp37m-linux_x86_64.whl
+    pip3 install https://download.pytorch.org/whl/cpu/torchvision-0.3.0-cp37-cp37m-linux_x86_64.whl
+
+3) Run python and check for "import torch"
